@@ -1,0 +1,12 @@
+{"id":"abcda","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":"123456789"}
+{"id":"abcda","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"123456790"}
+{"id":"abcdb","state":"FINISHED","timestamp":"1234567899"}
+{"id":"abcdc","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"12345698"}
+{"id":"abcdb","state":"STARTED","timestamp":"1234567890"}
+{"id":"abcdd","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"1234567190"}
+{"id":"abcdd","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":"123456789"}
+{"id":"abcdc","state":"STARTED","timestamp":"12345690"}
+{"id":"abcde","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":"123456789"}
+{"id":"abcde","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"1234567890"}
+{"id":"abcdf","state":"STARTED","timestamp":"133456789"}
+{"id":"abcdf","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":"123456740"}
